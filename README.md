@@ -4,8 +4,8 @@
 | ---                                     | ---       |
 | `Node`                                  | [download](https://nodejs.org/pt)  |
 | `NPM (Node Version Manager)` :bulb: *optional                      | [download-nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
-| `Visual Studio Code`                    | [download-nvm-setup.exe](https://code.visualstudio.com/download) |
-| `Angular dev`                           | [download](https://angular.dev/installation) |
+| `Visual Studio Code`                    | [download](https://code.visualstudio.com/download) |
+| `Angular dev/install`                           | [download](https://angular.dev/installation) |
 
 Extensions: GitHub Theme - Dark
 Material Icon Theme
