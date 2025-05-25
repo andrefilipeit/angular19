@@ -7,9 +7,12 @@
 | `Visual Studio Code`                    | [download](https://code.visualstudio.com/download) |
 | `Angular dev/install`                           | [download](https://angular.dev/installation) |
 
+//TODO EDIT MARKDOWN
 Extensions: GitHub Theme - Dark
 Material Icon Theme
 Angular Language Service
+
+:bulb: with nvm $nvm install 22 / $nvm use 22.xx.x / check $node -v
 
 :bulb: Angular commands: $npm install -g @angular/cli@19.0.2
 $ng --version
