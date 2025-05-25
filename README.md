@@ -1,39 +1,41 @@
 # angular19
+Angular19 conceitos básicos ao avançado
+
+## Requirements
 
 | Technologies Used                       | Version |
 | ---                                     | ---       |
 | `Node`                                  | [download](https://nodejs.org/pt)  |
-| `NVM (Node Version Manager)` :bulb: *optional                      | [download-nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
+| `NVM (Node Version Manager)` :bulb: *optional                      | [nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
 | `Visual Studio Code`                    | [download](https://code.visualstudio.com/download) |
 | `Angular dev/install(doc)`                           | [download](https://angular.dev/installation) |
 
-//TODO EDIT MARKDOWN
 
-Extensions: GitHub Theme - Dark,
+Extensoes úteis no VSCode: <br>
+  * GitHub Theme - ```Dark```
 
-Material Icon Theme,
+  * Material Icon Theme
 
-Angular Language Service
+  * Angular Language Service
 
-:bulb: with nvm $nvm install 22 / $nvm use 22.xx.x / check $node -v
+➡️ Configurando com o NVM ```$nvm install 22``` / ```$nvm use 22.xx.x``` / ```$node -v```
 
-:bulb: Angular commands: $npm install -g @angular/cli@19.0.2
-$ng --version
+## Iniciando o desenvolvimento
 
-criar projeto angular no diretorio selecionado: $ng new conteitos-basicos  
-selecionar: Sass (SCSS)
+Criar projeto angular no diretorio selecionado: <br>
+```$ng new conteitos-basicos``` <br>
+➡️ Y, Sass (SCSS)
 
-Dentro da pasta criada 'conceitos-basicos' realizar o comando $ng serve --open
-para iniciar o servidor de desenvolvimento e abrir o browser
+Dentro da pasta criada ```conceitos-basicos``` realizar o comando ```$ng serve --open``` para iniciar o servidor de desenvolvimento e abrir o browser.
 
-Links uteis: 
-Explore the Docs: 'https://angular.dev'
-Learn with Tutorials: 'https://angular.dev/tutorials'
-CLI Docs: 'https://angular.dev/tools/cli'
-Angular Language Service: 'https://angular.dev/tools/language-service'
-Angular DevTools: 'https://angular.dev/tools/devtools'
+Gerando um novo componente via cli: ```$ng generate component minhapagina``` feito no commit [Criando o componente minhapagina...](https://github.com/andrefilipeit/angular19/commit/4d5a31a123e635a2b4944ba2c234b88cfc760c6b)
 
-Generate a new component by cli: '$ng generate component minhapagina'
+Links uteis:<br>
+  *Explore the Docs: 'https://angular.dev'
+  *Learn with Tutorials: 'https://angular.dev/tutorials'
+  *CLI Docs: 'https://angular.dev/tools/cli'
+  *Angular Language Service: 'https://angular.dev/tools/language-service'
+  *Angular DevTools: 'https://angular.dev/tools/devtools'
 
 
 
