@@ -3,13 +3,19 @@
 | Technologies Used                       | Version |
 | ---                                     | ---       |
 | `Node`                                  | [download](https://nodejs.org/pt)  |
-| `NPM (Node Version Manager)` :bulb: *optional                      | [download-nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
+| `NVM (Node Version Manager)` :bulb: *optional                      | [download-nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
 | `Visual Studio Code`                    | [download](https://code.visualstudio.com/download) |
-| `Angular dev/install`                           | [download](https://angular.dev/installation) |
+| `Angular dev/install(doc)`                           | [download](https://angular.dev/installation) |
 
-Extensions: GitHub Theme - Dark
-Material Icon Theme
+//TODO EDIT MARKDOWN
+
+Extensions: GitHub Theme - Dark,
+
+Material Icon Theme,
+
 Angular Language Service
+
+:bulb: with nvm $nvm install 22 / $nvm use 22.xx.x / check $node -v
 
 :bulb: Angular commands: $npm install -g @angular/cli@19.0.2
 $ng --version
