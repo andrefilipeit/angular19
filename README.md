@@ -3,7 +3,7 @@
 | Technologies Used                       | Version |
 | ---                                     | ---       |
 | `Node`                                  | [download](https://nodejs.org/pt)  |
-| `NPM (Node Version Manager)` :bulb: *optional                      | [download-nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
+| `NVM (Node Version Manager)` :bulb: *optional                      | [download-nvm-setup.exe](https://github.com/coreybutler/nvm-windows/releases) |
 | `Visual Studio Code`                    | [download](https://code.visualstudio.com/download) |
 | `Angular dev/install`                           | [download](https://angular.dev/installation) |
 
