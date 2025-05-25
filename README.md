@@ -33,6 +33,8 @@ CLI Docs: 'https://angular.dev/tools/cli'
 Angular Language Service: 'https://angular.dev/tools/language-service'
 Angular DevTools: 'https://angular.dev/tools/devtools'
 
+Generate a new component by cli: '$ng generate component minhapagina'
+
 
 
 
