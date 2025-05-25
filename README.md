@@ -8,8 +8,11 @@
 | `Angular dev/install(doc)`                           | [download](https://angular.dev/installation) |
 
 //TODO EDIT MARKDOWN
-Extensions: GitHub Theme - Dark
-Material Icon Theme
+
+Extensions: GitHub Theme - Dark,
+
+Material Icon Theme,
+
 Angular Language Service
 
 :bulb: with nvm $nvm install 22 / $nvm use 22.xx.x / check $node -v
