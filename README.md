@@ -31,11 +31,11 @@ Dentro da pasta criada ```conceitos-basicos``` realizar o comando ```$ng serve -
 Gerando um novo componente via cli: ```$ng generate component minhapagina``` feito no commit [Criando o componente minhapagina...](https://github.com/andrefilipeit/angular19/commit/4d5a31a123e635a2b4944ba2c234b88cfc760c6b)
 
 Links uteis:<br>
-  *Explore the Docs: 'https://angular.dev'
-  *Learn with Tutorials: 'https://angular.dev/tutorials'
-  *CLI Docs: 'https://angular.dev/tools/cli'
-  *Angular Language Service: 'https://angular.dev/tools/language-service'
-  *Angular DevTools: 'https://angular.dev/tools/devtools'
+  * Explore the Docs: https://angular.dev
+  * Learn with Tutorials: https://angular.dev/tutorials
+  * CLI Docs: https://angular.dev/tools/cli
+  * Angular Language Service: https://angular.dev/tools/language-service
+  * Angular DevTools: https://angular.dev/tools/devtools
 
 
 
