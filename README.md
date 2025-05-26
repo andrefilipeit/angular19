@@ -28,7 +28,7 @@ Criar projeto angular no diretorio selecionado: <br>
 
 Dentro da pasta criada ```conceitos-basicos``` realizar o comando ```$ng serve --open``` para iniciar o servidor de desenvolvimento e abrir o browser.
 
-Gerando um novo componente via cli: ```$ng generate component minhapagina``` feito no commit [Criando o componente minhapagina...](https://github.com/andrefilipeit/angular19/commit/4d5a31a123e635a2b4944ba2c234b88cfc760c6b)
+Gerando um novo componente via cli: ```$ng generate component minhapagina``` feito no commit [4d5a31a](https://github.com/andrefilipeit/angular19/commit/4d5a31a123e635a2b4944ba2c234b88cfc760c6b)
 
 Links uteis:<br>
   * Explore the Docs: https://angular.dev
